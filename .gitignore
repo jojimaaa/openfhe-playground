@@ -1,0 +1,3 @@
+.venv
+stubs
+.pytest_cache
